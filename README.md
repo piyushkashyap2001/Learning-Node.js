@@ -1,5 +1,4 @@
-# Learning-Node.js
-## Work in progress :)
+# Work in progress :)
 
 ## Architecture /Event Loop
 Node.js in the runtime environment for executing javascript code
